@@ -2,6 +2,9 @@
 
 APP LINK : https://first-netflixclone-reactjs.netlify.app/
 
+![image](https://user-images.githubusercontent.com/78754445/191657805-4aa35829-787e-4184-80c2-8b2bc9352cfb.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
